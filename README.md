@@ -20,12 +20,14 @@ Travelbook is a React-based web application that allows you to create your perso
 ### Installation
 
 1. **Clone the repository:**
+
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/mahadybd/travelbook.git
    cd travelbook
    ```
 
 2. **Install frontend dependencies:**
+
    ```sh
    npm install
    ```
@@ -40,12 +42,14 @@ Travelbook is a React-based web application that allows you to create your perso
 ### Running the App
 
 1. **Start the backend server:**
+
    ```sh
    cd backend
    node app.js
    ```
 
 2. **Start the frontend development server:**
+
    ```sh
    npm run dev
    ```
@@ -63,6 +67,10 @@ Travelbook is a React-based web application that allows you to create your perso
 - Add or modify places in `backend/data/places.json`
 - User selections are stored in `backend/data/user-places.json`
 - Place images are stored in `backend/images/`
+
+## GitHub Repository
+
+[https://github.com/mahadybd/travelbook](https://github.com/mahadybd/travelbook)
 
 ## License
 
